@@ -1,0 +1,5 @@
+b=4      
+h=4      
+area=1/2*b*h      
+print(area)   
+o/p :8.0
