@@ -1,0 +1,9 @@
+t=("python",123,456,"hello")  
+print(t)  
+('python', 123, 456, 'hello')
+print(t[0])     
+python
+print(t[1:3]) 
+(123, 456)
+print(t*2)    
+('python', 123, 456, 'hello', 'python', 123, 456, 'hello')Tuple
