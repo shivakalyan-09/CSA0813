@@ -1,0 +1,6 @@
+principle=100
+rate=50
+time=10
+amount=principle*(pow((1+rate/100),time))
+ci=amount-principle
+print('compound intrest:',ci)
