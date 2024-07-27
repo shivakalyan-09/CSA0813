@@ -1,0 +1,22 @@
+def area(h,b):
+    return(area)
+def area(r):
+    return(area1)
+def area(l,b):
+    return(area2)
+def area(a):
+    return(area3)
+b=int(input("enter the base"))
+h=int(input("enter the height"))
+area=1/2*b*h
+print("area is triangle {}".format(area))
+r=int(input("enter the radius"))
+area1=r*r*3.14
+print("area of circle {}".format(area1))
+l=int(input("enter the length"))
+b=int(input("enter the breadth"))
+area2=l*b
+print("area of rectangle {}".format(area2))
+a=int(input("enter the a value"))
+area3=a*a
+print("area of square {}".format(area3))
