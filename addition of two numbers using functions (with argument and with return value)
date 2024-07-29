@@ -1,0 +1,7 @@
+def add(n1,n2):
+    return (n1+n2)
+
+
+a=int(input("Enter the Number 1:"))
+b=int(input("Enter the Number 2:"))
+print("Addition is {}".format(add(a,b)))
