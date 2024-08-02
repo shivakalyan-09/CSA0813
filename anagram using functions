@@ -1,0 +1,10 @@
+def anagram(a,b):
+    a=a.lower()
+    b=b.lower()
+    return sorted(a)==sorted(b)
+a="pot"
+b="top"
+if anagram(a,b):
+    print("a and b are anagrams")
+else:
+    print("a and b are not anagram")
